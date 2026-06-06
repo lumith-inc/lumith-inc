@@ -37,23 +37,14 @@
 
 <br/><br/>
 
-<!-- НИЖНИЙ БЛОК: Информация и Гифка (точно такой же ширины 850px) -->
+<!-- НИЖНИЙ БЛОК: Информация и Гифка (ширина 850px) -->
 <table width="850" border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
     <!-- Левая колонка: Описание -->
     <td width="415" valign="top">
       <h2>Hey, it's me, Lumith 👋</h2>
       <p>
-        I have a deep passion for technology and science, constantly exploring everything from <b>physics</b> and <b>mathematics</b> to the endless wonders of the <b>cosmos</b>.
-      </p>
-      <p>
-        My absolute weapon of choice is <b>C++</b> — honestly, solving algorithmic problems and writing code is just my favorite way to unwind and relax.
-      </p>
-      <p>
-        Lately, I've been expanding my tech stack and stepping into mobile development by learning <b>Flutter and Dart</b>.
-      </p>
-      <p>
-        Whenever I get tired of chasing down endless compiler errors, I usually take a break to build things in <b>Minecraft</b> or play a casual game of <b>chess</b> (though I'm still a complete beginner, so go easy on me!).
+        I'm really into technology and science, constantly exploring things like physics, math, and the cosmos. Writing <b>C++</b> and solving competitive programming problems is honestly just my favorite way to relax, though I've also recently started learning <b>Flutter and Dart</b>. Whenever I get tired of code errors, I usually just unwind by building stuff in <b>Minecraft</b> or playing a quick game of <b>chess</b>.
       </p>
       <br/>
       <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,linux,git,vscode" alt="My Skills"/>
