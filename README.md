@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lumith-inc/lumith-inc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Твой главный баннер -->
+  <img src="Banner.png" width="850" alt="Banner"/>
 
-Here are some ideas to get you started:
+  <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Блок кнопок-ссылок -->
+  <a href="https://codeforces.com/profile/IsaevM"><img src="Codeforces.png" width="150" alt="Codeforces"/></a>
+  <a href="https://atcoder.jp/users/IsaevM"><img src="AtCoder.png" width="150" alt="AtCoder"/></a>
+  <a href="https://electicode.com/ru/users/cmmehc82t9ee4pn01z3mr26te"><img src="Electicode.png" width="150" alt="Electicode"/></a>
+  <a href="https://www.chess.com/member/Isaev_M"><img src="Chess.com.png" width="150" alt="Chess.com"/></a>
+
+</div>
