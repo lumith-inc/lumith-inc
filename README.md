@@ -24,4 +24,25 @@
       </td>
     </tr>
   </table>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="55%">
+      <h2>Hey there, I'm lumith 👋</h2>
+      <p>
+        Just a 15-year-old guy who genuinely <b>enjoys the process</b> of competitive programming in C++. No pressure, just pure fun and solving problems.
+      </p>
+      <p>
+        💻 Currently daily-driving <b>Fedora 44</b> and diving into mobile development with <b>Flutter & Dart</b>. 
+      </p>
+      <p>
+        🎮 When I'm not staring at compiler errors, you can find me building things in <b>Minecraft</b> or casually hanging out on Chess.com (just created my account, don't judge my rating yet!).
+      </p>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,linux,git,vscode" alt="My Skills"/>
+    </td>
+    <td valign="middle" align="right" width="45%">
+      <img src="gif" width="350" alt="My Awesome GIF" style="border-radius: 8px;"/>
+    </td>
+  </tr>
+</table>
 </div>
