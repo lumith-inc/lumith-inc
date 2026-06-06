@@ -42,9 +42,15 @@
   <tr>
     <!-- Левая колонка: Описание -->
     <td width="415" valign="top">
-      <h2>Hey, it's me, Lumith 👋</h2>
+      <h2>Hey, I'm Lumith 👋</h2>
       <p>
-        I'm really into technology and science, and I find pretty much everything in these fields interesting, especially <b>mathematics</b>. Writing <b>C++</b> and solving competitive programming problems is honestly just my favorite way to relax, though I've also recently started learning <b>Flutter and Dart</b>. Whenever I get tired of code errors, I usually just unwind by building stuff in <b>Minecraft</b> or playing a quick game of <b>chess</b>.
+        Just a guy breaking things in tech and science. I find pretty much everything in these fields interesting, especially <b>math</b>. 
+      </p>
+      <p>
+        My absolute weapon of choice is <b>C++</b> — mostly because solving competitive programming problems is my twisted way of relaxing. I'm also currently messing around with <b>Flutter and Dart</b> to actually build something cool.
+      </p>
+      <p>
+        When compiler errors inevitably ruin my day, I just escape to <b>Minecraft</b> or blunder my queen on Chess.com (still a complete beginner, so no judgment).
       </p>
       <br/>
       <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,linux,git,vscode" alt="My Skills"/>
