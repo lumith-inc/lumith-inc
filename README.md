@@ -2,7 +2,7 @@
 <table width="850" border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
     <td colspan="3" align="center">
-      <img src="Banner.png" width="850" alt="Banner"/>
+      <img src="Banner.png" width="850" alt="Banner" style="display: block; margin: 0 auto;"/>
       <br/><br/>
     </td>
   </tr>
@@ -44,16 +44,16 @@
     <td width="415" valign="top">
       <h2>Hey, it's me, Lumith 👋</h2>
       <p>
-        I'm really into technology and science, constantly exploring things like physics, math, and the cosmos. Writing <b>C++</b> and solving competitive programming problems is honestly just my favorite way to relax, though I've also recently started learning <b>Flutter and Dart</b>. Whenever I get tired of code errors, I usually just unwind by building stuff in <b>Minecraft</b> or playing a quick game of <b>chess</b>.
+        I'm really into technology and science, and I find pretty much everything in these fields interesting, especially <b>mathematics</b>. Writing <b>C++</b> and solving competitive programming problems is honestly just my favorite way to relax, though I've also recently started learning <b>Flutter and Dart</b>. Whenever I get tired of code errors, I usually just unwind by building stuff in <b>Minecraft</b> or playing a quick game of <b>chess</b>.
       </p>
       <br/>
       <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,linux,git,vscode" alt="My Skills"/>
     </td>
     <!-- Разделитель колонок -->
     <td width="20"></td>
-    <!-- Правая колонка: Гифка -->
+    <!-- Правая колонка: Гифка по центру -->
     <td width="415" align="center" valign="middle">
-      <img src="gif" width="380" alt="My Awesome GIF" style="border-radius: 8px;"/>
+      <img src="gif" width="380" alt="My Awesome GIF" style="border-radius: 8px; display: block; margin: 0 auto;"/>
     </td>
   </tr>
 </table>
